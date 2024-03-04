@@ -77,6 +77,26 @@ override fun onRequestPermissionsResult(
     )
 }
 ```
+
+#Terms and Conditions for Free Access to the Library:
+
+#### By subscribing to the `KnowledgeCrave` YouTube channel, you acknowledge and agree to the following terms and conditions regarding the free access to the library:
+
+#### Eligibility: Free access to the library is exclusively available to individuals who have subscribed to the KnowledgeCrave YouTube channel.
+
+#### `Subscription` Verification: Access to the library will be granted upon verification of your subscription to the KnowledgeCrave YouTube channel. Verification may take up to 24 hours.
+
+#### Non-Transferable: The free access to the library is non-transferable and may only be used by the individual who has subscribed to the KnowledgeCrave YouTube channel.
+
+#### Duration: The free access to the library is valid as long as the subscriber remains actively subscribed to the KnowledgeCrave YouTube channel.
+
+#### Revocation of Access: KnowledgeCrave reserves the right to revoke access to the library at any time without prior notice if it is determined that the subscriber has unsubscribed from the KnowledgeCrave YouTube channel or violated any of the terms and conditions outlined herein.
+
+#### Usage: `Subscribers` are permitted to use the library for personal and non-commercial purposes only. Any unauthorized distribution or commercial use of the library is strictly prohibited.
+
+### Modifications: KnowledgeCrave reserves the right to modify or update these terms and conditions at any time without prior notice. It is the subscriber's responsibility to review and adhere to the most current version of the terms and conditions.
+
+By subscribing to the KnowledgeCrave YouTube channel and accessing the library, you agree to comply with these terms and conditions. Failure to comply may result in the termination of your access to the library.
 # Additional Notes
 
 Ensure that you handle permission requests and results appropriately.
