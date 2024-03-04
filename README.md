@@ -78,7 +78,7 @@ override fun onRequestPermissionsResult(
 }
 ```
 
-#Terms and Conditions for Free Access to the Library:
+# Terms and Conditions for Free Access to the Library:
 
 #### By subscribing to the `KnowledgeCrave` YouTube channel, you acknowledge and agree to the following terms and conditions regarding the free access to the library:
 
