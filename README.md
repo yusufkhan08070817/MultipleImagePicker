@@ -25,7 +25,7 @@ dependencyResolutionManagement {
 ```
 implementation ("com.github.yusufkhan08070817:MultipleImagePicker:Tag")
 ```
-Tag * 1.0.1 *
+Tag  `1.0.1 `
 
 ## Step 3: Implement the Image Picker
 
